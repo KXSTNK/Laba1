@@ -14,9 +14,9 @@ static void Main(string[] args)
 
     {
 
-        CHHHEK chek = new CHHHEK();
+       
 
-        chek.start();
+        
 
     }
 
