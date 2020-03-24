@@ -6,20 +6,8 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    class program
+    class Class1
 
     {
-
-static void Main(string[] args)
-
-    {
-
-        CHHHEK chek = new CHHHEK();
-
-        chek.start();
-
     }
-
-}
-
 }
